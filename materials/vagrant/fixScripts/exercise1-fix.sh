@@ -1,2 +1,3 @@
 #!/bin/bash
-#add fix to exercise1 here
+#remove unrelevant ip from ip route
+sudo ip route del 208.86.224.90
